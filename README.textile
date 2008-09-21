@@ -4,11 +4,11 @@ An ongoing "BibTeX":http://en.wikipedia.org/wiki/BibTeX bibliography of philosop
 
 h3. Other Bibliographies
 
-* Andrew Cullison: http://www.andrewcullison.com/category/bibtex/
-* Benj Hellie: http://individual.utoronto.ca/benj/mind.bib
-* Mark Eli Kalderon: http://github.com/PhilGeek/bib/tree/master
-* Ted Sider: http://tedsider.org/
-* Richmond Thomason: http://www.eecs.umich.edu/~rthomaso/bibs/index.html
+* Andrew Cullison: "http://www.andrewcullison.com/category/bibtex/":http://www.andrewcullison.com/category/bibtex/
+* Benj Hellie: "http://individual.utoronto.ca/benj/mind.bib":http://individual.utoronto.ca/benj/mind.bib
+* Mark Eli Kalderon: "http://github.com/PhilGeek/bib/tree/master":http://github.com/PhilGeek/bib/tree/master
+* Ted Sider: "http://tedsider.org/":http://tedsider.org/
+* Richmond Thomason: "http://www.eecs.umich.edu/~rthomaso/bibs/index.html":http://www.eecs.umich.edu/~rthomaso/bibs/index.html
 
 h3. License
 
